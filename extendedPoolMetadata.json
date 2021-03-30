@@ -1,7 +1,7 @@
 {
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/nocapstakepool/pool/main/NCLogo64.png",
-        "url_png_logo": "https://raw.githubusercontent.com/nocapstakepool/pool/main/NCLogoXL.png",
+        "url_png_logo": "https://raw.githubusercontent.com/nocapstakepool/pool/main/NoCapStakepool.png",
         "location": "California, United States",
         "social": {
             "twitter_handle": "nocapstakepool",
@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "",
-            "server": "Hosted on AWS",
+            "server": "Hosted on AWS. 2vCPU w/ 8GB RAM. 100GB+ Expandable Storage. Hosted in 2 US Regions with Public and Private Subnets.",
             "company": "BuiltOnTheBlock.com"
         }
     },
