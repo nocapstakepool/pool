@@ -5,7 +5,7 @@
         "location": "California, United States",
         "social": {
             "twitter_handle": "nocapstakepool",
-            "telegram_handle": "nocapstakepool",
+            "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
             "twitch_handle": "",
@@ -23,7 +23,7 @@
         "about": {
             "me": "",
             "server": "Hosted on AWS. 2vCPU w/ 8GB RAM. 100GB+ Expandable Storage. Hosted in 2 US Regions with Public and Private Subnets.",
-            "company": "BuiltOnTheBlock.com"
+            "company": ""
         }
     },
     "my-pool-ids": {
