@@ -13,7 +13,7 @@
             "github_handle": ""
         },
         "company": {
-            "name": "NoCapStakepool",
+            "name": "No Cap Stakepool",
             "addr": "",
             "city": "Los Angeles",
             "country": "United States",
@@ -22,7 +22,7 @@
         },
         "about": {
             "me": "",
-            "server": "Hosted on AWS. 2vCPU w/ 8GB RAM. 100GB+ Expandable Storage. Hosted in 2 US Regions with Public and Private Subnets.",
+            "server": "Hosted on AWS and on-prem in 4 US Regions. 2-4vCPU w/ 8 GB RAM. 120 GB+ Expandable Storage.",
             "company": ""
         }
     },
